@@ -1,0 +1,17 @@
+# virtual envs
+.venv/
+venv/
+ENV/
+
+# python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.build/
+
+# tools
+.pytest_cache/
+.mypy_cache/
+.coverage*
+.dist/
+
